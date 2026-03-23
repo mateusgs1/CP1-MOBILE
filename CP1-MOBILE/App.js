@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 
 import styles from './styles';
-import CardResultado from './CardResultado';
+import CardResultado from './Card';
 
 export default function App() {
   const [nome, setNome] = useState('');
